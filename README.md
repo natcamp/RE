@@ -1,2 +1,3 @@
 # RE
-Effects of Wind and Solar on Property Values
+# Effects of Wind and Solar Energy Systems on Property Values
+#  Hedonic Analysis
